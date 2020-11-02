@@ -8,3 +8,8 @@
 
 ## Issues
 - No definite way for each site (some have csv, some have zip), maybe not automatable
+
+## Dependencies
+- requests
+- oauth2client
+- google-api-python-client
